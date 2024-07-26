@@ -19,5 +19,4 @@ public class OrderItem {
 
     @Field(targetType = FieldType.DECIMAL128)
     private BigDecimal price;
-
 }
